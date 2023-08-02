@@ -1,0 +1,258 @@
+{
+    "1": {
+      "question": "Nunca he tenido usuario de la uc3m",
+      "answer": "Debes registrarte en el sistema para obtener tu usuario y contraseña",
+      "urls": [
+        {
+          "text": "Regístrate",
+          "url": "https://sigma.uc3m.es/regi/controlreg/registroPublico?entradaPublica=true&pais=ES&idioma=es&destino=MOF"
+        },
+        {
+          "text": "Guía para obtener la clave",
+          "url": "https://www.uc3m.es/uc3m/media/uc3m/doc/archivo/doc_admisionobtenerclave/guia_obtener_clave_23-24.pdf"
+        }
+      ]
+    },
+    "2": {
+      "question": "Tuve usuario uc3m pero no lo recuerdo",
+      "urls": [
+        {
+          "text": "Recupera tu usuario y clave",
+          "url": "http://aplicaciones.uc3m.es/clavePersonal/alumnoPrimeroLogin.do"
+        }
+      ]
+    },
+    "3": {
+      "question": "Al registrarme, la aplicación me indica que el usuario ya existe",
+      "urls": [
+        {
+          "text": "Recupera tu usuario y clave",
+          "url": "http://aplicaciones.uc3m.es/clavePersonal/alumnoPrimeroLogin.do"
+        }
+      ]
+    },
+    "4": {
+      "question": "¿Cómo se realiza la solicitud de admisión a un programa de máster?",
+      "answer": "Se realiza a través de la plataforma informática de la uc3m.",
+      "urls": [
+        {
+          "text": "Acceso a la aplicación de admisión",
+          "url": "https://sigma.uc3m.es/cosmos/Controlador/?apl=Uninavs&gu=a&idNav=inicio&NuevaSesionUsuario=true&NombreUsuarioAlumno=ALUMNO2&ambito=MENU&idioma=es&pais=ES"
+        }
+      ]
+    },
+    "5": {
+      "question": "Si aún no he finalizado mis estudios de Grado, ¿puedo presentar una solicitud de admisión?",
+      "answer": "SÍ puedes, pero tienes que rellenar el siguiente documento, en el cual te comprometes a finalizar tus estudios de Grado. Debe subirse en la aplicación en lugar del Título universitario previo.",
+      "urls": [
+        {
+          "text": "Declaración responsable y matrícula condicionada",
+          "url": "https://www.uc3m.es/ss/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Cache-Control&blobheadervalue1=inline%3B+filename%3D%22Declaraci%C3%B3n_responsable_y_matr%C3%ADcula_condicionada.pdf%22&blobheadervalue2=private&blobkey=id&blobtable=MungoBlobs&blobwhere=1371591385933&ssbinary=true"
+        }
+      ]
+    },
+    "6": {
+      "question": "¿Qué documentos es necesario presentar?",
+      "answer": "Necesitarás presentar tu título universitario previo o el abono de las tasas de expedición. En caso de que tus estudios previos no hayan sido finalizados, tendrás que adjuntar el siguiente documento. Además, será necesario que adjuntes el certificado académico de notas de los estudios previos, con inclusión de la nota media del expediente académico. (No será necesario si tus estudios previos han sido cursados en la UC3M). Serán necesarios también los siguientes documentos, según el máster solicitado. Aun así, en el momento en el que realices el proceso de admisión, la aplicación te indicará los documentos obligatorios en cada máster.",
+      "urls": [
+        {
+          "text": "Declaración responsable y matrícula condicionada",
+          "url": "https://www.uc3m.es/ss/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Cache-Control&blobheadervalue1=inline%3B+filename%3D%22Declaraci%C3%B3n_responsable_y_matr%C3%ADcula_condicionada.pdf%22&blobheadervalue2=private&blobkey=id&blobtable=MungoBlobs&blobwhere=1371591385933&ssbinary=true"
+        },
+        {
+          "text": "Documentación que debes subir en la aplicación on-line",
+          "url": "https://www.uc3m.es/ss/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Cache-Control&blobheadervalue1=inline%3B+filename%3D%22Documentaci%C3%B3n_que_debes_subir_en_la_aplicaci%C3%B3n_on-line.pdf%22&blobheadervalue2=private&blobkey=id&blobtable=MungoBlobs&blobwhere=1371600716237&ssbinary=true"
+        }
+      ]
+    },
+    "7": {
+      "question": "¿Cómo debo adjuntar la documentación requerida?",
+      "answer": "Los documentos que hay que adjuntar a la solicitud debes subirlos tú mismo a la aplicación de admisión siempre que el estado de la solicitud sea solicitada por el alumno o pendiente documentación, en caso contrario puedes enviarla a través de nuestro formulario de contacto.",
+      "urls": [
+        {
+          "text": "Formulario de Contacto",
+          "url": "https://www.uc3m.es/postgrado/contacto"
+        }
+      ]
+    },
+    "8": {
+      "question": "¿Cómo puedo conocer el estado de mi solicitud?",
+      "answer": "Puedes acceder a la información desde SIGMA, con tu usuario y clave de 4 dígitos. En el panel de tu solicitud, podrás comprobar el estado administrativo de la misma. También recibirás información por parte de la Secretaría del Máster correspondiente. Los estados más habituales son los siguientes:Pendiente del pago de la solicitud: significa que falta que abones la tasa de solicitud del máster (27,54€).Solicitada por el alumno: significa que la solicitud está pendiente de revisión por el Centro de Postgrado. Validada por la Administración: significa que la solicitud está pendiente de estudio para su admisión o denegación por parte de la Dirección del Máster. Admitido: significa que estás admitido pero hasta que no recibas la carta de admisión definitiva puede ser provisional y ser susceptible de cambio. También puede faltarte documentación o no cumplir aún los requisitos para iniciar estudios de Máster (recibirás en ambos casos una carta de admisión condicional). Concedida: significa que te puedes matricular en los plazos establecidos para ello. Los plazos estarán publicados en la web y los recibirás también en la carta de admisión. No obstante, en los casos de admisión condicional por no finalización de estudios harás una matrícula también condicionada al cumplimiento de los requisitos.",
+      "urls": [
+        {
+          "text": "SIGMA",
+          "url": "https://sigma.uc3m.es/cosmos/Controlador/?apl=Uninavs&gu=a&idNav=inicio&NuevaSesionUsuario=true&NombreUsuarioAlumno=ALUMNO2&ambito=MENU&idioma=es&pais=ES"
+        }
+      ]
+    },
+    "9": {
+      "question": "Tengo problemas para acceder a la aplicación de admisión.",
+      "answer": "Comprueba la conexión de tu ordenador e intenta entrar en la aplicación usando otro navegador, como por ejemplo Mozilla Firefox. No obstante, comprueba que, en las preferencias del navegador, no tengas bloqueadas las ventanas emergentes. Entra en las opciones del navegador y permite las ventanas emergentes para hacer la admisión o añade como excepción \"sigma.uc3m.es\" Si continúa el error, al lado de la dirección https: aparece un triángulo de aviso, pincha en él y permite la conexión a la página, pues parece que te ocurre por un problema de seguridad. También puedes entrar en Herramientas/Opciones/Seguridad/Excepciones y dar permiso a la página. Si aun así continuas sin poder, ponte en contacto con nosotros accediendo a nuestro formulario de contacto.",
+      "urls": [
+        {
+          "text": "Formulario de contacto",
+          "url": "https://www.uc3m.es/postgrado/contacto"
+        }
+      ]
+    },
+    "10": {
+      "question": "Problemas con la aplicación de admisión",
+      "answer": "Intenta rellenar tu solicitud en el menor tiempo posible, ya que la aplicación se cierra si permaneces demasiado tiempo inactivo. Todos los archivos deben estar en formato PDF y no superar los 4Mb."
+    },
+    "11": {
+      "question": "Tras seleccionar el máster, la pantalla sale el blanco",
+      "answer": "Una vez dentro de la aplicación y seleccionado el máster, tiene que marcar la casilla He leído el texto sobre Protección de Datos y acepto / I have read and accept the Data protection notice Además si se introduce texto en las casillas de observaciones y becas, éste tiene que ser muy escueto, no más de una línea."
+    },
+    "12": {
+      "question": "Olvidé incluir un documento, el cual considero importante. He accedido hoy a la plataforma para subirlo, pero no he podido. ¿Podría adjuntarlo vía email?",
+      "answer": "No, pero desde la página del formulario de contacto puedes adjuntar archivos fácilmente y enviárnoslo.",
+      "urls": [
+        {
+          "text": "Formulario de contacto",
+          "url": "https://www.uc3m.es/postgrado/contacto"
+        }
+      ]
+    },
+    "13": {
+      "question": "¿Quién  y cómo evalúa las candidaturas recibidas?",
+      "answer": "La candidatura y toda la documentación justificativa será estudiada para determinar si es elegible (cumple con los requisitos de acceso). Posteriormente las candidaturas elegibles serán evaluadas por la Comisión Académica de Programa que, aplicando los criterios de selección, determinará la admisión del solicitante."
+    },
+    "14": {
+      "question": "¿Se me avisa si estoy admitido al máster?",
+      "answer": "Una vez se resuelva tu solicitud por parte de la dirección del máster, en caso de ser admitido recibirás una notificación por correo electrónico con la resolución de admisión. A partir de este momento, tendrás un plazo de 10 días para abonar el importe de la reserva de plaza (se descuenta de la matrícula) o realizar directamente el pago de la reserva de plaza y tu matrícula en el máster si ya hubiera comenzado la matriculación (ver calendarios)."
+    },
+    "15": {
+      "question": "¿Qué pasos debo dar, una vez que recibo la resolución de admisión en un Programa de Máster?",
+      "answer": "Cuando hayas sido admitido debes realizar el pago de la reserva en el plazo de diez días naturales desde que recibas la notificación de admisión (este pago se descontará del importe a abonar en la primera matrícula que realices) o realizar directamente el pago de la reserva de plaza y tu matrícula en el máster si ya hubiera comenzado la matriculación (ver calendarios). Posteriormente deberás seguir las instrucciones de matriculación relativas al pago de la matrícula y la entrega de la documentación de tus estudios previos."
+    },
+    "16": {
+      "question": "Información General Proceso de Admisión",
+      "answer": "Puedes consultar las guías y manuales que te ayudarán en la preparación de la solicitud. Tendrás que aportar cierta documentación obligatoria, para que la solicitud se cargue en el sistema. Toda la información que aportes será revisada administrativa y académicamente.",
+      "urls": [
+        {
+          "text": "Consultar información",
+          "url": "https://www.uc3m.es/postgrado/admision/proceso"
+        }
+      ]
+    },
+    "17": {
+      "question": "¿La solicitud de admisión es gratuita?",
+      "answer": "No. Tienes que pagar una tasa de 27,54€ por cada máster que quieras solicitar. Dicha tasa se te descontará de la apertura de expediente exclusivamente en el máster matriculado."
+    },
+    "18": {
+      "question": "He realizado correctamente mi solicitud al máster pero me quedó pendiente el pago de la tasa de preinscripción. ¿Cómo debo proceder para efectuar dicho pago?",
+      "answer": "En este caso debes entrar de nuevo en la aplicación de solicitud y dirigirte a la opción \"Accesos\" (no a la opción de \"Tasas\"). Un vez dentro haz click en el icono \"Modificar solicitud\" y después ve a la opción \"Pago preinscripción\". Por último debes realizar el pago eligiendo como forma de pago el “Pago Electrónico (TPV)”. Sólo tienes que aceptar y se abrirá la pasarela de cobro."
+    },
+    "19": {
+      "question": "¿Cómo se realiza el pago de la reserva?",
+      "answer": "Se realiza mediante tarjeta de crédito / compra electrónica. Debes acceder al sistema de pago electrónico de la uc3m, con tu usuario y clave de 4 dígitos. Selecciona “Tasas”.",
+      "urls": [
+        {
+          "text": "Sistema de pago electrónico",
+          "url": "https://sigma-web.uc3m.es:8443/cosmos/Controlador/?apl=Uninavs&gu=a&idNav=inicio&NuevaSesionUsuario=true&NombreUsuarioAlumno=ALUMNO2&ambito=MENU&idioma=es&pais=ES&responsive=S"
+        },
+        {
+          "text": "Guía para el pago de la reserva de plaza",
+          "url": "https://www.uc3m.es/uc3m/media/uc3m/doc/archivo/doc_admisionpagoreserva/guia_reserva_plaza_23-24.pdf"
+        }
+      ]
+    },
+    "20": {
+      "question": "No recuerdo mi clave de 4 dígitos para acceder a la aplicación",
+      "urls": [
+        {
+          "text": "Recupera tu usuario y clave",
+          "url": "http://aplicaciones.uc3m.es/clavePersonal/alumnoPrimeroLogin.do"
+        }
+      ]
+    },
+    "21": {
+      "question": "Problemas con el pago de la reserva de plaza",
+      "answer": "Si anteriormente has tenido problemas con el pago y es la segunda vez o sucesivas que intentas realizarlo, debes entrar por la opción “Trámite de Pago TPV”, dentro de esa misma aplicación."
+    },
+    "22": {
+      "question": "Cuando accedo al pago de la reserva, no aparece el importe ni el máster en el que estoy admitido.",
+      "answer": "Para poder abonar la reserva, tu solicitud debe estar en estado “Concedido Acceso”, no “Admitido”. Pide al gestor de tu máster que revise el estado de la solicitud."
+    },
+    "23": {
+      "question": "¿Se descuenta el importe abonado en concepto de reserva de plaza?",
+      "answer": "Sí, la cantidad que abones en concepto de reserva, será descontada en el primer pago que realices de la matrícula del máster."
+    },
+    "24": {
+      "question": "Si renuncio al máster una vez haya pagado la reserva, ¿me devuelven el dinero?",
+      "answer": "NO. El importe abonado en concepto de reserva de plaza SÓLO será devuelto en caso de la suspensión del Máster. En este supuesto, se podrá tramitar un cambio de la reserva para otro Máster para el MISMO curso académico o la devolución del importe."
+    },
+    "25": {
+      "question": "¿Debo pagar la reserva de plaza si voy a solicitar la beca MECD?",
+      "answer": "SÍ, debes abonar el importe de la reserva, que te será devuelto una vez el Ministerio resuelva favorablemente la concesión de tu beca."
+    },
+    "26": {
+      "question": "¿Debo pagar la reserva de plaza si he sido adjudicatario de una de las \"Ayudas Completas al Estudio de Máster Universitario de la UC3M\"?",
+      "answer": "SÍ, debes abonar el importe de la reserva salvo que hayas acreditado los requisitos que indica la resolución de adjudicación. El cumplimiento de estos requisitos condicionan el inicio efectivo de la ayuda obtenida."
+    },
+    "27": {
+      "question": "¿Debo pagar la reserva de plaza si tengo la condición de Familia Numerosa Especial?",
+      "answer": "NO, debes acreditarlo con la documentación actualizada en tu oficina de postgrado, para que desde Secretaría efectúen la reserva de la misma (en caso de Familia Numerosa General, se abona la reserva, la exención correspondiente se aplicará en la matrícula). Puedes presentar la documentación acreditativa a través del Formulario para exenciones de matrícula.",
+      "urls": [
+        {
+          "text": "Formulario para excensiones de matrícula",
+          "url": "https://aplicaciones.uc3m.es/formulario/exenciones-postgrado"
+        }
+      ]
+    },
+    "28": {
+      "question": "¿Debo pagar la reserva de plaza si tengo la condición de discapacitado?",
+      "answer": "No, debes acreditarlo con la documentación actualizada en tu oficina de postgrado, para que desde Secretaría efectúen la reserva de la misma. Puedes presentar la documentación acreditativa a través del Formulario para exenciones de matrícula.",
+      "urls": [
+        {
+          "text": "Formulario para excensiones de matrícula",
+          "url": "https://aplicaciones.uc3m.es/formulario/exenciones-postgrado"
+        }
+      ]
+    },
+    "29": {
+      "question": "¿Cuáles son los plazos para presentar la solicitud de admisión a un Programa de Máster?",
+      "answer": "La Universidad se reserva el derecho a cancelar excepcionalmente un Máster si no se dan las condiciones necesarias para su impartición. Esta cancelación se anunciara en la página web antes del 30 de junio. Cada solicitante deberá pagar una tasa de 27,54€, por cada máster solicitado, que posteriormente será descontada, exclusivamente del máster en que se haya matriculado, en concepto de tasa de apertura de expediente.",
+      "urls": [
+        {
+          "text": "Consulta los plazos",
+          "url": "https://www.uc3m.es/postgrado/admision/proceso"
+        }
+      ]
+    },
+    "30": {
+      "question": "¿Cuándo se resuelve la lista de espera en un máster?",
+      "urls": [
+        {
+          "text": "Consulta aquí",
+          "url": "https://www.uc3m.es/postgrado/admision/proceso"
+        }
+      ]
+    },
+    "31": {
+      "question": "¿Cómo puedo saber el horario de mi Máster?",
+      "answer": "Puedes acceder a la aplicación de Horarios para consultar la planificación del curso académico vigente. Si es un nuevo Máster, encontrarás la franja horaria y días de la semana en que se imparte en la pestaña de “Información Práctica”, del máster correspondiente.",
+      "urls": [
+        {
+          "text": "Aplicación de Horarios",
+          "url": "https://aplicaciones.uc3m.es/horarios-web/publicacion/postgrado.page"
+        }
+      ]
+    },
+    "32": {
+      "question": "¿Qué plazo tengo para acreditar la superación de los estudios previos que dan acceso al Máster?",
+      "answer": "El plazo para acreditar la superación de los estudios previos es, como máximo, el 30 de noviembre."
+    },
+    "33": {
+      "question": "¿Cuánto debo abonar para la reserva de plaza?",
+      "answer": "El importe la reserva de plaza de cada Máster se encuentra publicado en la pestaña de Admisión » Matrícula, del máster correspondiente. Puedes consultarlo accediendo a la página web del mismo. Este importe será descontado de la cantidad a abonar en el primer pago de matrícula que realices."
+    },
+    "34": {
+      "question": "¿Debo abonar alguna cantidad en concepto de tasas por realizar la solicitud de admisión?",
+      "answer": "Sí, tienes que pagar una tasa de 27,54€ por cada máster que quieras solicitar. Dicha tasa se te descontará, exclusivamente del máster en que te matricules, en concepto de tasa de apertura de expediente."
+    },
+    "35": {
+      "question": "¿Cuál es el precio de la matrícula que debo abonar?",
+      "answer": "El importe de cada Máster se encuentra publicado en la pestaña de Admisión » Matrícula, del máster correspondiente. Puedes consultarlo accediendo a la página web del mismo."
+    }
+  }

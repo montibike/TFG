@@ -1,0 +1,35 @@
+1. ¿Nunca he tenido usuario de la uc3m?
+2. ¿Tuve usuario uc3m pero no lo recuerdo?
+3. ¿Al registrarme, la aplicación me indica que el usuario ya existe?
+4. ¿Cómo se realiza la solicitud de admisión a un programa de máster?
+5. ¿Si aún no he finalizado mis estudios de Grado, puedo presentar una solicitud de admisión?
+6. ¿Qué documentos es necesario presentar?
+7. ¿Cómo debo adjuntar la documentación requerida?
+8. ¿Cómo puedo conocer el estado de mi solicitud?
+9. ¿Tengo problemas para acceder a la aplicación de admisión?
+10. ¿Problemas con la aplicación de admisión?
+11. ¿Tras seleccionar el máster, la pantalla sale en blanco?
+12. ¿Olvidé incluir un documento, el cual considero importante. He accedido hoy a la plataforma para subirlo, pero no he podido. ¿Podría adjuntarlo vía email?
+13. ¿Quién y cómo evalúa las candidaturas recibidas?
+14. ¿Se me avisa si estoy admitido al máster?
+15. ¿Qué pasos debo dar, una vez que recibo la resolución de admisión en un Programa de Máster?
+16. ¿Información General Proceso de Admisión?
+17. ¿La solicitud de admisión es gratuita?
+18. ¿He realizado correctamente mi solicitud al máster pero me quedó pendiente el pago de la tasa de preinscripción. ¿Cómo debo proceder para efectuar dicho pago?
+19. ¿Cómo se realiza el pago de la reserva?
+20. ¿No recuerdo mi clave de 4 dígitos para acceder a la aplicación?
+21. ¿Problemas con el pago de la reserva de plaza?
+22. ¿Cuando accedo al pago de la reserva, no aparece el importe ni el máster en el que estoy admitido?
+23. ¿Se descuenta el importe abonado en concepto de reserva de plaza?
+24. ¿Si renuncio al máster una vez haya pagado la reserva, ¿me devuelven el dinero?
+25. ¿Debo pagar la reserva de plaza si voy a solicitar la beca MECD?
+26. ¿Debo pagar la reserva de plaza si he sido adjudicatario de una de las "Ayudas Completas al Estudio de Máster Universitario de la UC3M"?
+27. ¿Debo pagar la reserva de plaza si tengo la condición de Familia Numerosa Especial?
+28. ¿Debo pagar la reserva de plaza si tengo la condición de discapacitado?
+29. ¿Cuáles son los plazos para presentar la solicitud de admisión a un Programa de Máster?
+30. ¿Cuándo se resuelve la lista de espera en un máster?
+31. ¿Cómo puedo saber el horario de mi Máster?
+32. ¿Qué plazo tengo para acreditar la superación de los estudios previos que dan acceso al Máster?
+33. ¿Cuánto debo abonar para la reserva de plaza?
+34. ¿Debo abonar alguna cantidad en concepto de tasas por realizar la solicitud de admisión?
+35. ¿Cuál es el precio de la matrícula que debo abonar?
